@@ -8,7 +8,7 @@ React Query
 
 A aplicacção tem como objetivo o estudo das principais funcionalidades da biblioteca React Query. As funcionalidades abordadas no projeto são:
 - Basic Queries
-- Pool Data
+- Poll Data
 - React Query DevTools
 - Reusable Query Hooks
 - Query by ID
@@ -20,7 +20,6 @@ A aplicacção tem como objetivo o estudo das principais funcionalidades da bibl
 - Invalidate Queries
 - Optimistic Queries
 - Axios Interceptor
-
 
 ## :wrench: Instalação e uso
 
