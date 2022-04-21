@@ -2,10 +2,8 @@
 React Query
 </h3>
 
-## :rocket: Sobre o desafio
-
 <p align="center">
-  <img src="" alt="ReactQuery">
+  <img src="https://github.com/rodrigovellinho/ReactQuery/blob/main/public/capa.png" alt="ReactQuery">
 </p>
 
 A aplicacção tem como objetivo o estudo das principais funcionalidades da biblioteca React Query. As funcionalidades abordadas no projeto são:
